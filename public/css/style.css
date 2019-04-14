@@ -1,0 +1,27 @@
+body {
+    background-color: white !important;
+}
+
+.navbar {
+    background-color: rgba(40, 40, 40, 1);
+    color: white !important;
+}
+
+.navbar .nav-link,.navbar-brand,.navbar-toggler {
+    color: white !important;
+    border-color:  white !important;
+}
+
+.img-logo {
+    width: 100%;
+    height: auto;
+}
+
+#header {
+    border-bottom: 1px solid #00373d;
+}
+
+#header .nav-link {
+    color: #E39E30;
+    font-weight: bold;
+}
